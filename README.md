@@ -8,12 +8,12 @@
    git clone https://github.com/LegendaryDmitriys/IT_Nova_Task1
 ```
 
-* Установите нужные зависимости 
+* Установите нужные зависимости. 
 
 ```bash
    npm install
 ```
-* Запустите проект
+* Запустите проект.
   
 ```bash
    npm install
