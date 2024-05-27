@@ -24,7 +24,7 @@ git clone https://github.com/LegendaryDmitriys/IT_Nova_Task1
 Вместо использования массива объектов с ключами 'category_name' и 'img_path', можно было бы использовать объект, где ключами были бы названия категорий, а значениями — массивы путей к изображениям.
 
 ```javasript
-export const products = {
+export const objects = {
     elements: {
         'All': [
             '/images/Print2.jpg',
