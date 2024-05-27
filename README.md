@@ -5,7 +5,7 @@
 * Склонируйте репозиторий в вашу рабочую папку.
 
 ```bash
-git clone https://github.com/LegendaryDmitriys/IT_Nova_Task1
+   git clone https://github.com/LegendaryDmitriys/IT_Nova_Task1
 ```
 
 * Установите нужные зависимости 
